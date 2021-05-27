@@ -7,7 +7,7 @@
 	<br>
 	70 is greater than 65: <%= 70 > 65 %>
 	<br>
-	This is a string: <%= new String("Hello world").toUpperCase() %>
+	Converting a string to uppercase: <%= new String("Hello world").toUpperCase() %>
 	<br>
 	25 multiply by 10: <%= 25 * 10 %>
 </body>
